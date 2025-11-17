@@ -1,0 +1,219 @@
+========================================================================================================
+Model: /home/lejurobot/Desktop/humanoid-gym/logs/Roban_s2_ppo_new/Jun19_18-17-05_v1/model_12650.onnx
+Test Time: 2025-06-23 11:09:40
+
+X+: maximum disturbance force tolerated is 80.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 110.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 80.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 80.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/humanoid-gym/logs/Roban_s2_ppo_new/250618_model_6000_improve_ankle_vel.onnx
+Test Time: 2025-06-23 11:20:31
+
+X+: maximum disturbance force tolerated is 40.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 40.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 40.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 30.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/humanoid-gym/logs/Roban_s2_ppo_new/Jun24_11-20-31_v1/model_4000.onnx
+Test Time: 2025-06-24 16:18:04
+
+X+: maximum disturbance force tolerated is 100.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 110.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 70.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 70.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/humanoid-gym/logs/Roban_s2_ppo_new/Jun25_09-55-29_v1/model_3200.onnx
+Test Time: 2025-06-25 13:55:39
+
+X+: maximum disturbance force tolerated is 110.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 120.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 60.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 70.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/humanoid-gym/logs/Roban_s2_ppo_new/Jun25_13-52-20_v1/model_3300.onnx
+Test Time: 2025-06-25 17:46:27
+
+X+: maximum disturbance force tolerated is 90.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 120.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 100.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 100.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/humanoid-gym/logs/Roban_s2_ppo_new/Jun25_18-28-32_v1/model_13700.onnx
+Test Time: 2025-06-26 09:39:11
+
+X+: maximum disturbance force tolerated is 110.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 140.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 130.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 130.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/humanoid-gym/logs/Roban_s2_ppo_new/250626_torque_test2.onnx
+Test Time: 2025-06-26 17:56:13
+
+X+: maximum disturbance force tolerated is 40.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 40.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 30.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 30.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/roban_gym/logs/Roban_s2_ppo_new/Jun27_18-03-19_v1/model_58000.onnx
+Test Time: 2025-06-30 09:36:16
+
+X+: maximum disturbance force tolerated is 110.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 120.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 60.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 70.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/roban_gym/logs/Roban_s2_ppo_new/Jun30_13-32-14_v1/model_2700.onnx
+Test Time: 2025-06-30 16:43:51
+
+X+: maximum disturbance force tolerated is 80.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 110.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 30.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 40.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/roban_gym/logs/Roban_s2_ppo_new/Jun30_19-31-43_v1/model_4250.onnx
+Test Time: 2025-07-01 10:23:46
+
+X+: maximum disturbance force tolerated is 90.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 130.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 50.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 50.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/roban_gym/logs/Roban_s2_ppo_new/model_400.onnx
+Test Time: 2025-07-01 10:51:41
+
+X+: maximum disturbance force tolerated is 40.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 50.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 50.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 20.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/roban_gym/logs/Roban_s2_ppo_new/Jul02_11-22-35_v1/model_2400.onnx
+Test Time: 2025-07-02 14:16:36
+
+X+: maximum disturbance force tolerated is 70.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 100.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 30.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 40.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/roban_gym/logs/Roban_s2_ppo_new/Jul02_11-22-35_v1/model_1000.onnx
+Test Time: 2025-07-02 14:18:55
+
+X+: maximum disturbance force tolerated is 60.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 80.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 50.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 30.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/roban_gym/logs/Roban_s2_ppo_new/Jul03_10-52-40_v1/model_6400.onnx
+Test Time: 2025-07-03 13:47:42
+
+X+: maximum disturbance force tolerated is 90.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 120.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 40.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 20.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/roban_gym/logs/Roban_s2_ppo_new/Jul04_12-44-59_v1/model_2450.onnx
+Test Time: 2025-07-04 13:58:54
+
+X+: maximum disturbance force tolerated is 70.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 80.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 20.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 30.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/roban_gym/logs/Roban_s2_ppo/Jul08_17-15-34_v1/model_19300.onnx
+Test Time: 2025-07-09 10:16:49
+
+X+: maximum disturbance force tolerated is 60.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 110.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 90.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 80.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/roban_gym/logs/Roban_s2_ppo/Jul08_17-15-34_v1/model_5000.onnx
+Test Time: 2025-07-09 10:20:10
+
+X+: maximum disturbance force tolerated is 70.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 120.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 100.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 110.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/roban_gym/logs/Roban_s2_ppo/Jul08_17-15-34_v1/model_19300.onnx
+Test Time: 2025-07-09 10:21:41
+
+X+: maximum disturbance force tolerated is 30.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 50.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 40.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 40.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/roban_gym/logs/Roban_s2_ppo/Jul08_17-15-34_v1/model_5000.onnx
+Test Time: 2025-07-09 10:22:46
+
+X+: maximum disturbance force tolerated is 30.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 20.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 40.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 40.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/roban_gym/logs/Roban_s2_ppo/Jul09_13-30-35_v1/model_2100.onnx
+Test Time: 2025-07-09 16:22:01
+
+X+: maximum disturbance force tolerated is 50.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 80.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 20.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 30.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/roban_gym/logs/Roban_s2_ppo/Jul10_18-29-24_v1/model_15400.onnx
+Test Time: 2025-07-11 09:38:11
+
+X+: maximum disturbance force tolerated is 100.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 140.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 90.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 90.0 N for 0.5 s
+========================================================================================================
+
+========================================================================================================
+Model: /home/lejurobot/Desktop/roban_gym/logs/Roban_s2_ppo/Jul14_18-30-09_v1/model_26500.onnx
+Test Time: 2025-07-15 09:35:53
+
+X+: maximum disturbance force tolerated is 130.0 N for 0.5 s
+X-: maximum disturbance force tolerated is 100.0 N for 0.5 s
+Y+: maximum disturbance force tolerated is 70.0 N for 0.5 s
+Y-: maximum disturbance force tolerated is 50.0 N for 0.5 s
+========================================================================================================
